@@ -1,1 +1,1 @@
-Chacon, S. and Straub, B. Pro Git. Apress.
+Scott Chacon and Ben Straub. Pro Git. Apress.
